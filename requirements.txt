@@ -1,5 +1,5 @@
 Flask==2.1.1
-gradio==2.0.12
+gradio>=2.3.3
 gradio-client==2.2.1
 requests==2.26.0
 gunicorn==20.1.0
